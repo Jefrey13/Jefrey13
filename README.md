@@ -45,6 +45,76 @@
 
 </div>
 
+<!-- Achievements Section -->
+<h3 align="left">🏆 Programming Achievements:</h3>
+<p align="left">Highlighting my certifications and accomplishments in programming and technology:</p>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+
+  <!-- Networking Academy Learn-A-Thon -->
+  <a href="https://ibb.co/jGBtYfc" target="_blank">
+    <img src="https://i.ibb.co/0Z85L2g/networking-academy-learn-a-thon-2023.png" 
+         alt="Networking Academy Learn-A-Thon 2023" 
+         title="Networking Academy Learn-A-Thon 2023" 
+         width="300" 
+         style="margin: 10px; border: 1px solid #ddd; border-radius: 8px;">
+  </a>
+
+  <!-- Python Essentials 2 -->
+  <a href="https://ibb.co/gFvQPQR" target="_blank">
+    <img src="https://i.ibb.co/bRHY2YK/python-essentials-2.png" 
+         alt="Python Essentials 2" 
+         title="Python Essentials 2" 
+         width="300" 
+         style="margin: 10px; border: 1px solid #ddd; border-radius: 8px;">
+  </a>
+
+  <!-- Networking Basics -->
+  <a href="https://ibb.co/B4QpMGK" target="_blank">
+    <img src="https://i.ibb.co/dbVTYtJ/networking-basics.png" 
+         alt="Networking Basics" 
+         title="Networking Basics" 
+         width="300" 
+         style="margin: 10px; border: 1px solid #ddd; border-radius: 8px;">
+  </a>
+
+  <!-- Network Defense -->
+  <a href="https://imgbb.com/" target="_blank">
+    <img src="https://i.ibb.co/NjBh6gR/network-defense.png" 
+         alt="Network Defense" 
+         title="Network Defense" 
+         width="300" 
+         style="margin: 10px; border: 1px solid #ddd; border-radius: 8px;">
+  </a>
+
+  <!-- Python Essentials 1 -->
+  <a href="https://imgbb.com/" target="_blank">
+    <img src="https://i.ibb.co/Bz1FrW7/python-essentials-1-1.png" 
+         alt="Python Essentials 1" 
+         title="Python Essentials 1" 
+         width="300" 
+         style="margin: 10px; border: 1px solid #ddd; border-radius: 8px;">
+  </a>
+
+  <!-- Neural Networks -->
+  <a href="https://ibb.co/fx8cS1v" target="_blank">
+    <img src="https://i.ibb.co/ZMHZJLm/Redes-Neuronales.png" 
+         alt="Neural Networks" 
+         title="Neural Networks" 
+         width="300" 
+         style="margin: 10px; border: 1px solid #ddd; border-radius: 8px;">
+  </a>
+
+  <!-- Building the Backend of an Application -->
+  <a href="https://ibb.co/ZJQ9TFX" target="_blank">
+    <img src="https://i.ibb.co/N30RYJC/Construcci-n-del-Backend-de-una-Aplicaci-n-todo-lo-que-necesitas-saber.png" 
+         alt="Building the Backend of an Application" 
+         title="Building the Backend of an Application" 
+         width="300" 
+         style="margin: 10px; border: 1px solid #ddd; border-radius: 8px;">
+  </a>
+
+</div>
 
 <!-- Technologies & Tools Section with Two Columns -->
 <h3 align="left">💻 Technologies & Tools:</h3>
