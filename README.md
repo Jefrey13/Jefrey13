@@ -1,37 +1,27 @@
-
 <!-- Introduction Section -->
-<h1 align="center">Greetings! I'm Jefrey Zuniga 👋</h1>
-<h3 align="center">Dedicated to Crafting Innovative Solutions</h3>
+<h1 align="center">Hello! I'm Jefrey Zuniga 👋</h1>
 
 <!-- Education Section -->
 <h3 align="left">🎓 Education:</h3>
 <p align="left">
-  - Information Systems Engineering from [UNAN-Managua]
+  - Bachelor's Degree in Information Systems Engineering from <b>UNAN-Managua</b>
 </p>
 
 <!-- Current Learning Section -->
-<h3 align="left">🌱 Continuous Improvement:</h3>
+<h3 align="left">🌱 Lifelong Learner:</h3>
 <p align="left">
-  - Currently learning Next.js and React Native
+  - Currently exploring advanced concepts in <b>Next.js</b> and <b>Angular</b>
 </p>
 
 <!-- Projects Section -->
-<h3 align="left">👨‍💻 Explore My Projects:</h3>
+<h3 align="left">👨‍💻 Explore My Work:</h3>
 <p align="left">
-  - Dive into my professional journey on
-  
-  - [Resume](https://resume.io/r/KpJpwT7kN)
-</p>
-
-<!-- Expertise Section -->
-<h3 align="left">💬 Ask Me About:</h3>
-<p align="left">
-  - Proficient in React, Tailwind CSS, .NET, Node.js, and SQL Server
+  - Discover my professional journey and key accomplishments:
+    - <a href="https://resume.io/r/KpJpwT7kN" target="_blank">My Resume</a>
 </p>
 
 <!-- Connect with Me Section -->
-<!-- Connect with Me Section -->
-<h3 align="left">📫 Connect with Me:</h3>
+<h3 align="left">📫 Let's Connect:</h3>
 <div style="display: flex; align-items: center; padding-left: 10px;">
 
   <!-- Gmail Icon -->
@@ -40,9 +30,8 @@
   </a>
   <!-- LinkedIn Icon -->
   <a href="https://linkedin.com/in/jefreyzuniga" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jefrey zuniga" title="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jefrey Zuniga" title="LinkedIn" height="30" width="40" />
   </a>
-
 </div>
 
 <!-- Achievements Section -->
