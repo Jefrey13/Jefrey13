@@ -17,7 +17,7 @@
 <h3 align="left">👨‍💻 Explore My Work:</h3>
 <p align="left">
   - Discover my professional journey and key accomplishments:
-    - <a href="https://drive.google.com/file/d/1v64T1bilB6IQvTEe1TMgovWpTOBE2qR5/view?usp=sharing" target="_blank">My Resume</a>
+    - <a href="https://jefrey-portfolio.netlify.app/" target="_blank">My Resume</a>
 </p>
 
 <!-- Connect with Me Section -->
