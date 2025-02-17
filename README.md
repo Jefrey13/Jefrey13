@@ -18,7 +18,7 @@
 <p align="left">
   - Discover my professional journey and key accomplishments:
     - <a href="https://jefrey-portfolio.netlify.app/" target="_blank">My Portfolio</a>
-    - <a href="https://drive.google.com/file/d/1U7zbPwGYAueWZqXLAS_MZjVPYObbJS8h/view?usp=sharing" target="_blank">My CV</a>
+    - <a href="https://drive.google.com/file/d/1k1Lx9ZUSw0TEUh8DLIeIG25uLMVwmP_T/view?usp=sharing" target="_blank">My CV</a>
 </p>
 
 <!-- Connect with Me Section -->
