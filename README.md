@@ -17,8 +17,8 @@
 <h3 align="left">👨‍💻 Explore My Work:</h3>
 <p align="left">
   - Discover my professional journey and key accomplishments:
-    - <a href="https://jefrey-portfolio.netlify.app/" target="_blank">My Portfolio</a>
-    - <a href="https://drive.google.com/file/d/1j4Wagbju5DJDOX26oXxND_BNF5dRAcDQ/view?usp=sharing" target="_blank">My CV</a>
+    - <a href="https://jefreyzunigaportolio.netlify.app/" target="_blank">My Portfolio</a>
+    - <a href="https://drive.google.com/file/d/1QUhnYPQ_6nI-oBrvniWKoNM-nZorVy2S/view" target="_blank">My CV</a>
 </p>
 
 <!-- Connect with Me Section -->
